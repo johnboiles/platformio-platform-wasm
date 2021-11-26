@@ -1,0 +1,20 @@
+{
+  "name": "wasm",
+  "title": "Web Assembly",
+  "description": "Web assembly development platform that builds html/js/wasm using Emscripten. Emscripten must be installed and available in PATH at build time.",
+  "homepage": "https://github.com/johnboiles/platformio-platform-wasm",
+  "license": "MIT",
+  "keywords": [
+      "dev-platform",
+      "native",
+      "wasm"
+  ],
+  "engines": {
+    "platformio": "^5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/johnboiles/platformio-platform-wasm.git"
+  },
+  "version": "1.0.0"
+}
